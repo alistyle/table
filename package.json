@@ -1,0 +1,20 @@
+{
+    "name": "table",
+    "description": "alibaba css theme - table",
+    "version": "1.0.1",
+    "homepage": "https://github.com/alistyle/table",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alistyle/table.git"
+    },
+    "bugs": {
+        "url": "https://github.com/alistyle/table/issues"
+    },
+    "family": "alistyle",
+    "spm": {
+        "alias": {},
+        "output": [
+            "table.css"
+        ]
+    }
+}
